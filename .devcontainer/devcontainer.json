@@ -1,0 +1,19 @@
+{
+    "name": "web3-dev-container",
+    "image": "mcr.microsoft.com/devcontainers/base:jammy",
+    "features": {
+        "ghcr.io/devcontainers/features/node:1": {
+            "version": "22.14.0"
+        },
+        "ghcr.io/devcontainers-contrib/features/supabase-cli:1": {}
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "dbaeumer.vscode-eslint",
+                "NomicFoundation.hardhat-solidity",
+                "ritwickdey.LiveServer"
+            ]
+        }
+    }
+}
