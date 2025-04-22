@@ -1,0 +1,20 @@
+{
+    "name": "나만의 멋진 NFT #1",
+    "description": "이 NFT는 특별한 의미를 담고 있습니다.",
+    "image": "ipfs://bafkreicaaw7kyaf275kpztvcvmwzk3dvliqhacrhexnioygfoa7btoat3q",
+    "attributes": [
+      {
+        "trait_type": "배경",
+        "value": "밤하늘"
+      },
+      {
+        "trait_type": "아이템",
+        "value": "황금 열쇠"
+      },
+      {
+        "trait_type": "레벨",
+        "value": 10,
+        "display_type": "number"
+      }
+    ]
+  }
